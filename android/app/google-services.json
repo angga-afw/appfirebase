@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "593949371445",
+    "project_id": "flutter-lat",
+    "storage_bucket": "flutter-lat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593949371445:android:57d23960a062b94356957c",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzlFki6vYMLKYs3_P5C4aIGYJ3RuqMp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593949371445:android:263fb9d4528d666c56957c",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzlFki6vYMLKYs3_P5C4aIGYJ3RuqMp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593949371445:android:d88d73050dc2d0cf56957c",
+        "android_client_info": {
+          "package_name": "com.latihan.flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzlFki6vYMLKYs3_P5C4aIGYJ3RuqMp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
